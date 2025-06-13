@@ -5,4 +5,4 @@ opencv-python.78
 Pillow
 onnxruntime
 requests 
-distutils
+python3-distutils
